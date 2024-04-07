@@ -1,0 +1,24 @@
+new syntax
+
+Linear Models
+All have same y-labels: y_train_augmented or baseY_train
+baseX_train
+baseX_test
+baseY_train
+baseY_test
+
+binaryX_train
+binaryX_test
+
+lda_baseX_train
+lda_baseX_test
+
+mcSVM models
+
+mcSVM_images
+binary_mcSVM
+mcSVM_lab
+
+CNN
+No change
+
